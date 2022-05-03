@@ -12,3 +12,4 @@ hello test! hello git! conflicts test
 hello test! hello git!
 hello test! hello git! hot-fix conflicts test
 hello test! hello git! super hot-fix
+2312313123123311231 edit by member B
